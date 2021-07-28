@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user.png.flat",
+        "source": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hi.png.flat",
+        "source": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\src\\main\\res\\drawable\\hi.png"
+    },
+    {
+        "merged": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\build\\intermediates\\res\\merged\\debug\\font_eagle_lake.xml.flat",
+        "source": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\src\\main\\res\\font\\eagle_lake.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_blue.xml.flat",
+        "source": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\src\\main\\res\\drawable\\btn_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\build\\intermediates\\res\\merged\\debug\\raw_datastation.txt.flat",
+        "source": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\src\\main\\res\\raw\\datastation.txt"
+    },
+    {
+        "merged": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\build\\intermediates\\res\\merged\\debug\\drawable_train.png.flat",
+        "source": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\src\\main\\res\\drawable\\train.png"
+    },
+    {
+        "merged": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\build\\intermediates\\res\\merged\\debug\\font_arizonia.xml.flat",
+        "source": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\src\\main\\res\\font\\arizonia.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\build\\intermediates\\res\\merged\\debug\\drawable_welcome.png.flat",
+        "source": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\src\\main\\res\\drawable\\welcome.png"
+    },
+    {
+        "merged": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_calculation.xml.flat",
+        "source": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\src\\main\\res\\layout\\activity_calculation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_darkblue.xml.flat",
+        "source": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\src\\main\\res\\drawable\\btn_darkblue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\build\\intermediates\\res\\merged\\debug\\raw_data.txt.flat",
+        "source": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\src\\main\\res\\raw\\data.txt"
+    },
+    {
+        "merged": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\build\\intermediates\\res\\merged\\debug\\drawable_greeting.png.flat",
+        "source": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\src\\main\\res\\drawable\\greeting.png"
+    },
+    {
+        "merged": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\build\\intermediates\\res\\merged\\debug\\font_nova_slim.xml.flat",
+        "source": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\src\\main\\res\\font\\nova_slim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\build\\intermediates\\res\\merged\\debug\\font_wendy_one.xml.flat",
+        "source": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\src\\main\\res\\font\\wendy_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Dongwook\\AndroidStudioProjects\\MySubway\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    }
+]
