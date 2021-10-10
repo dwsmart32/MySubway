@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="30dp"
+    android:paddingRight="30dp"
+   >
+
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_marginBottom="65dp"
+        android:background="@null"
+        android:gravity="center"
+        android:layout_marginTop="120dp"
+
+        android:src="@drawable/train" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        >
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/textinputedittext_NickName"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:hint="NickName"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="30dp"
+            android:background="@color/white"
+            />
+        ></com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        >
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:hint="Password"
+            android:id="@+id/textinputedittext_password"
+            android:layout_marginBottom="16dp"
+            android:background="@color/white"
+            />
+        ></com.google.android.material.textfield.TextInputLayout>
+
+    <LinearLayout
+        android:id="@+id/Linearlayout_Login"
+        android:layout_width="179dp"
+        android:layout_height="37dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/btn_blue"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:clickable="false"
+        android:weightSum="1">
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="65dp"
+            android:background="@null"
+            android:gravity="center"
+            android:src="@drawable/user" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/btn_blue"
+            android:gravity="center"
+            android:text="Log in"
+            android:textColor="@color/white" />
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="10"
+        android:layout_marginTop="50dp"
+
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:text="Forgot password?"
+            android:id="@+id/Textview_forgot"
+            android:clickable="true"
+            android:layout_weight="3"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/Textview_SignUp"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_weight="7"
+            android:clickable="true"
+            android:gravity="center"
+            android:text="Sign up"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>
